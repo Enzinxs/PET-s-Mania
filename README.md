@@ -12,21 +12,21 @@ O cliente pesquizou e descreveu como ele deseja à página estática deve conter
 ***********AMBIENTE DE DESENVOLVIMENTO*************
 
 
-  - Git version:
+  - Git version: 2.55.0
   - Github version:
-    *Nome do Repositório:
+    *Nome do Repositório: PET-s-Mania
   - Clonagem do repositório:
-      git clone https://github.com/JesusGermanodaSilvaJunior1/petsmania
+      git clone https://github.com/Enzinxs/PET-s-Mania.git
       git add
       git commit -m"comentário"
       git push  
   - node.js version:
-  - php version:
-  - MySQL version:
-  - Sistema Operacional version:
+  - php version: 8.5
+  - MySQL version: 8.4 LTS
+  - Sistema Operacional version: Windows 11
   - Servidor: 127.0.0.1 ou/ localhost/
-  - Editor de Código-fonte:
+  - Editor de Código-fonte: Visual Studio Code
   - Editor de entidade Relacional:
-  - Referencias Bibliograficas:
+  - Referencias Bibliograficas: Petz
   - Framework:bulma.io
-  - Prompt de comando:
+  - Prompt de comando: CMD
